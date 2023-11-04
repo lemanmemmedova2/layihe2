@@ -131,9 +131,6 @@ ol li{
 .remove-item:hover {
     background-color: #833AE0;
 }
-li{
-    overflow-wrap: break-word;
-}
 .scroll{
     overflow-y: hidden;
 }
